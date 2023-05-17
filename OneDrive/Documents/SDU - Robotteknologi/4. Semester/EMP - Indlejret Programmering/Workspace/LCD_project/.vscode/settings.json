@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "rtc.h": "c",
+    "queue.h": "c",
+    "status_led.h": "c",
+    "stdint.h": "c",
+    "string.h": "c",
+    "file.h": "c"
+  },
+  "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+  "comment-divider.subheaderFiller": "*"
+}
